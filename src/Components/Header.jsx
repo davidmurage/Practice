@@ -1,8 +1,8 @@
 /**
- * Header component
+ * Header components
  *
  * Top navigation bar for your site. Set to remain visible as the
- * user scrolls so that they can constantly reach any part of your page.
+ * user scrolls so that they can constantly reach any section of your page.
  */
 import React from "react";
 
@@ -18,7 +18,7 @@ const Header = () => {
         padding: "1rem",
         top: 0,
         width: "100%",
-        zIndex: 10,
+        zIndex: 10.5,
       }}
     >
       <a href="#home">Home</a>
