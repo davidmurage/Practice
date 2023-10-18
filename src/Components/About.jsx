@@ -24,9 +24,9 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  " Offers progressive experience from concept and design through testing, implementation and client updates. 
-  Diligent about producing exceptionally clean, strong and secure code.
-  Self-motivated to consistently provide first-class results in line with stringent targets.";
+  " I'm a Committed Tech enthusiast; Motivated and seasoned developer whose interest and passion are at the intersection of technology,creativity and innovation.
+  Experienced in combining the art of design with the skill of programming to deliver high quality and engaging user experiences. 
+  Strong proficiency in Html and Css, JavaScript,PHP and a thorough understanding of ReactJS and its components.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -41,6 +41,7 @@ const skillsList = [
   "Graphic design",
   "web development",
   "Responsive design",
+  "frontend development",
 ];
 
 /**
